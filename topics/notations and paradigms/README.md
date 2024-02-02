@@ -1,0 +1,2 @@
+- [Notational Intelligence](https://thesephist.com/posts/notation/)
+- [Terry Tao on mathematical notations](https://mathoverflow.net/a/366118)
