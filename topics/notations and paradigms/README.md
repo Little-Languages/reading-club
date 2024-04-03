@@ -1,2 +1,3 @@
 - [Notational Intelligence](https://thesephist.com/posts/notation/)
 - [Terry Tao on mathematical notations](https://mathoverflow.net/a/366118)
+- [“What, if anything, is a programming paradigm?”](https://www.cambridgeblog.org/2017/05/what-if-anything-is-a-programming-paradigm/) by Robert Harper (2017)
