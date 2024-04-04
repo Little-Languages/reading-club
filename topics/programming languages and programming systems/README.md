@@ -1,0 +1,20 @@
+# Programming Language Design
+
+- [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html) by Laurence Tratt (2023)
+- [Anders Hejlsberg on Modern Compiler Construction](https://www.youtube.com/watch?v=wSdV1M7n4gQ)
+- [DSL For the Uninitiated](https://cacm.acm.org/practice/dsl-for-the-uninitiated/) by Debasish Ghosh (2011)
+- [Language Workbenches: The Killer-App for Domain Specific Languages?](https://martinfowler.com/articles/languageWorkbench.html) by Martin Fowler (2005)
+- [A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js](https://www.youtube.com/watch?v=aGJTXdXQN2o) by Ashley Williams (2018)
+- [Syntax Design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
+- [Alan Perlis And The Evolution Of Programming Languages](https://deprogrammaticaipsum.com/alan-perlis-and-the-evolution-of-programming-languages/) (2022)
+- [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by Andreas Stefik (2014)
+- [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by Andreas Stefik (2015)
+- [Programming as interaction A new perspective for programming language research] by Tomas Petricek (2018)
+- [The Timeless Way of Programming](https://tomasp.net/blog/2022/timeless-way/) by Tomas Petricek (2022)
+- [Abstractive power](https://fexpr.blogspot.com/2013/12/abstractive-power.html) (2013)
+- [Counterexamples in Type Systems](https://counterexamples.org/intro.html)
+- [LEARNABLE PROGRAMMING](https://worrydream.com/LearnableProgramming/) by Bret Victor
+- [Complexity [in programming and programming language design]](https://www.ncameron.org/blog/complexity/)
+- [Programming languages are platforms, not products](https://kerkour.com/programming-languages-are-platforms)
+- [Three Things I Wish I Knew When I Started Designing Languages](https://www.youtube.com/watch?v=oa0qq75i9oc) by Peter Alvaro (2019)
+- [DSL Manifesto](https://guitarvydas.github.io/2020/12/09/DSL-Manifesto.html)
