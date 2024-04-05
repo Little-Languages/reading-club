@@ -1,0 +1,18 @@
+# Miscellaneous (and uncategorized papers)
+
+- [Searching for life (the lifeless void of enterprise software)](https://www.youtube.com/watch?v=kKDn9FzvRuM) by Peter van Hardenberg (2023)
+- [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html) by Adrian Sampson (2023)
+- [Cognitive Loads in Programming](https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html) (2022)
+- [On Variance and Extensibility](https://acko.net/blog/on-variance-and-extensibility/)
+- [MVC] (https://folk.universitetetioslo.no/trygver/themes/mvc/mvc-index.html)
+- [Slow software development](https://robinwinslow.uk/slow-software-development) by Robin Winslow (2022)
+- [Programming breakthroughs we need](https://yoyo-code.com/programming-breakthroughs-we-need/) by Matyáš Racek (2022)
+- [The Right Tool for the Job?](https://kevlinhenney.medium.com/the-right-tool-for-the-job-d6d3a80cecf8) by Kevlin Henney (2022)
+- [Papers on the dynamics of complex systems](https://neverworkintheory.org/bib/)
+- [The Rise of Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html) by Gabriel
+- [Tools for Thought as Cultural Practices, not Computational Objects](https://www.youtube.com/watch?v=t6uhvFGPUE0)
+- [DCI: Re-thinking the foundations of object orientation and of programming](https://vimeo.com/8235394) by Trygve Reenskaug (2007)
+- [A Brief Rant on the Future of Interaction Design](https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/) by Bret Victor (2011)
+- [Flow-based Programming](https://jpaulm.github.io/fbp/)
+- [Primitive: VR code visualization tool](https://www.youtube.com/watch?v=40ua8NRyrro) (2016)
+- [Cyrus Omar's class "User Interfaces for Programming Languages"](https://web.eecs.umich.edu/~comar/courses/ui-for-pl/)

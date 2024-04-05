@@ -1,3 +1,4 @@
 - [Notational Intelligence](https://thesephist.com/posts/notation/)
 - [Terry Tao on mathematical notations](https://mathoverflow.net/a/366118)
 - [“What, if anything, is a programming paradigm?”](https://www.cambridgeblog.org/2017/05/what-if-anything-is-a-programming-paradigm/) by Robert Harper (2017)
+- [The Humane Representation of Thought](https://vimeo.com/115154289) by Bret Victor (2014)
