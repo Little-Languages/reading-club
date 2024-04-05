@@ -18,3 +18,4 @@
 - [Programming languages are platforms, not products](https://kerkour.com/programming-languages-are-platforms)
 - [Three Things I Wish I Knew When I Started Designing Languages](https://www.youtube.com/watch?v=oa0qq75i9oc) by Peter Alvaro (2019)
 - [DSL Manifesto](https://guitarvydas.github.io/2020/12/09/DSL-Manifesto.html)
+- [Programming Across Paradigms](https://www.youtube.com/watch?v=Pg3UeB-5FdA) by Anjana Vakil (2017)
