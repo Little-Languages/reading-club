@@ -8,3 +8,4 @@
 - [Watching NDN's Waist](https://www.youtube.com/watch?v=69p78tfm29o) by Van Jacobson (2019)
 - [When to Design for Emergence](https://newsletter.rhizomerd.com/p/when-to-design-for-emergence?s=r) by KASEY KLIMES (2022)
 - [The Layers Of The Web](https://speaking.adactio.com/ZCJ61M) by Jeremy Kieth (2019)
+- [The Cost of Opinion (Vector of intentions)](https://glazkov.com/2022/02/23/the-cost-of-opinion/) by Dimitri Glazkov (2022)
